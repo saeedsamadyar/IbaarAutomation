@@ -5,3 +5,4 @@ it ('google saerch',function (){
   cy.get("cy.get('body')").type("cypress")
 
 })
+
